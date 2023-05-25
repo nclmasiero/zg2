@@ -1,0 +1,15 @@
+SETTINGS
+settingVolume - stores the volume number, from 0 to 10.
+
+PLAYER INFOS
+plinFirstTime - stores true or false. true if it's the first time the player opens the game.
+plinName - stores the player name as a string
+plinMaxScore - stores the max player's score as an integer
+plinMoney - stores the player's current money as an integer
+plinLevel - stores the player's level as an integer
+plinExperience - stores the player's experience as an integer (100 experience = 1 level)
+
+CHARACTERS UNLOCKABILITY
+unlMiles - stores bool, is miles unlocked?
+unlTank - stores bool, is tank unlocked?
+etc...

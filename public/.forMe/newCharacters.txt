@@ -1,0 +1,7 @@
+NAME: Lexa
+PASSIVE: can heal on kill
+ULTIMATE: 
+
+NAME: Astro
+PASSIVE: a star can fall on an enemy
+ULTIMATE: makes stars fall
